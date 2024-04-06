@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "e4431b3f12090a68",
+    "type": "split",
+    "children": [
+      {
+        "id": "6c3f0821c95b9a53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8f05a6b749c0ae5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doc/notes/taking_notes/Note Taking Workflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d33ff3ede6912e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "doc/notes/taking_notes/Incorporate paper notes in your knowledge base.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f86774db002fb13",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5351959930704bed",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b82ea3055cc5851",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49a99499fd090299",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dd23aa9da0791f2f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c84d5b6e62e65dbc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b156b219df061ed2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d984c2181e9b177",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df70b755100fd960",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "129ce281fcac483e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b92864824fbe966b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "54876fcf4f068651",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1f86774db002fb13",
+  "lastOpenFiles": [
+    "doc/notes/taking_notes/Note Taking Workflow.md",
+    "doc/notes/taking_notes/Incorporate paper notes in your knowledge base.md",
+    "doc/notes/README.md",
+    "doc/notes/taking_notes/Reading Papers.md",
+    "doc/notes/taking_notes/Note Taking Principles.md",
+    "doc/notes/taking_notes/Fleeting Notes.md",
+    "doc/notes/taking_notes",
+    "doc/notes/().md",
+    "doc/notes/Workflow.md",
+    "doc/notes/bibliography",
+    "doc/notes",
+    "doc/research/attachments/another.png",
+    "doc/research/main_page.md",
+    "doc/research/attachments/Pasted image 20240405162214.png",
+    "doc/research/attachments",
+    "doc/research/note-settings.png",
+    "README.md",
+    "doc/research",
+    "doc/references/README.md"
+  ]
+}
