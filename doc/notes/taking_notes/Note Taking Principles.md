@@ -1,3 +1,4 @@
+#TakingNotes 
 
 1. **Take notes in your own words.** Write complete sentences when taking notes to give them some context and understanding and to make it a complete thought.
 2. **"Irreducible" ideas.** Capture the idea in its simplest form.

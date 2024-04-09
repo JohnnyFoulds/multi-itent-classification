@@ -1,3 +1,5 @@
+#TakingNotes 
+
 Notes of your thoughts while reading something. Like quick ideas, highlights or inspirations you get when you read something.
 
 The two critical parts to capture are:

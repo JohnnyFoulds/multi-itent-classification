@@ -4,43 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6c3f0821c95b9a53",
+        "id": "eaa1cfd0f032e920",
         "type": "tabs",
         "children": [
           {
-            "id": "c8f05a6b749c0ae5",
+            "id": "45a185057b59f185",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "doc/notes/taking_notes/Note Taking Workflow.md",
-                "mode": "source",
-                "source": false
+                "file": "doc/references/papers/2204.13746.pdf"
               }
-            }
-          },
-          {
-            "id": "2d33ff3ede6912e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "doc/notes/taking_notes/Incorporate paper notes in your knowledge base.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f86774db002fb13",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,10 +46,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#status/todo",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -106,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "doc/references/papers/2204.13746.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "doc/references/papers/2204.13746.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,15 +122,16 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "doc/references/papers/2204.13746.pdf"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,26 +143,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f86774db002fb13",
+  "active": "45a185057b59f185",
   "lastOpenFiles": [
-    "doc/notes/taking_notes/Note Taking Workflow.md",
-    "doc/notes/taking_notes/Incorporate paper notes in your knowledge base.md",
+    "doc/references/notes/@Poddar2022.md",
+    "doc/references/papers/2204.13746.pdf",
+    "doc/references/papers",
+    "doc/references/_archive/2108.10566.pdf",
+    "doc/references/@Poddar2022.pdf",
     "doc/notes/README.md",
     "doc/notes/taking_notes/Reading Papers.md",
+    "doc/notes/taking_notes/Note Taking Workflow.md",
     "doc/notes/taking_notes/Note Taking Principles.md",
+    "doc/notes/taking_notes/Incorporate paper notes in your knowledge base.md",
     "doc/notes/taking_notes/Fleeting Notes.md",
-    "doc/notes/taking_notes",
+    "doc/references/notes",
+    "doc/references/untitled folder",
+    "doc/references/_archive/README.md",
+    "doc/references/export.bib",
+    "doc/export.bib",
+    "Untitled.canvas",
+    "doc/references/_archive",
+    "doc/references/_archive/10.21437.pdf",
+    "doc/notes/attachments/colour_pallet.png",
+    "Untitled 1.canvas",
+    "2024-04-08.md",
     "doc/notes/().md",
     "doc/notes/Workflow.md",
-    "doc/notes/bibliography",
-    "doc/notes",
     "doc/research/attachments/another.png",
     "doc/research/main_page.md",
     "doc/research/attachments/Pasted image 20240405162214.png",
-    "doc/research/attachments",
     "doc/research/note-settings.png",
-    "README.md",
-    "doc/research",
-    "doc/references/README.md"
+    "README.md"
   ]
 }
