@@ -11,9 +11,11 @@
             "id": "45a185057b59f185",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "doc/references/papers/2204.13746.pdf"
+                "file": "doc/notes/taking_notes/Note Taking Workflow.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "doc/references/papers/2204.13746.pdf",
+                "file": "doc/notes/taking_notes/Note Taking Workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "doc/references/papers/2204.13746.pdf",
+                "file": "doc/notes/taking_notes/Note Taking Workflow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "doc/references/papers/2204.13746.pdf"
+                "file": "doc/notes/taking_notes/Note Taking Workflow.md"
               }
             }
           }
@@ -145,7 +147,11 @@
   },
   "active": "45a185057b59f185",
   "lastOpenFiles": [
+    "doc/notes/taking_notes/Note Taking Principles.md",
+    "doc/notes/taking_notes/Incorporate paper notes in your knowledge base.md",
+    "doc/notes/taking_notes/Fleeting Notes.md",
     "doc/references/notes/@Poddar2022.md",
+    "doc/references/papers/3653303.pdf",
     "doc/references/papers/2204.13746.pdf",
     "doc/references/papers",
     "doc/references/_archive/2108.10566.pdf",
@@ -153,9 +159,6 @@
     "doc/notes/README.md",
     "doc/notes/taking_notes/Reading Papers.md",
     "doc/notes/taking_notes/Note Taking Workflow.md",
-    "doc/notes/taking_notes/Note Taking Principles.md",
-    "doc/notes/taking_notes/Incorporate paper notes in your knowledge base.md",
-    "doc/notes/taking_notes/Fleeting Notes.md",
     "doc/references/notes",
     "doc/references/untitled folder",
     "doc/references/_archive/README.md",
@@ -163,7 +166,6 @@
     "doc/export.bib",
     "Untitled.canvas",
     "doc/references/_archive",
-    "doc/references/_archive/10.21437.pdf",
     "doc/notes/attachments/colour_pallet.png",
     "Untitled 1.canvas",
     "2024-04-08.md",
